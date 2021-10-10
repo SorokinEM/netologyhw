@@ -1,1 +1,4 @@
-print('Привет Netology!!!!')
+class Character():
+    pass
+peter = Character()
+print(type(peter))
